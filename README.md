@@ -1,2 +1,3 @@
 # hello-world
-Test
+
+Hi This is codemajia. Ready to learn.
